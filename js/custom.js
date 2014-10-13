@@ -2,7 +2,7 @@ $(document).ready(function() {
 	
 	$("body").css("display", "none");
 
-	$("body").fadeIn(800);
+    $("body").fadeIn(800);
     
 	$("a.transition").click(function(event){
 		event.preventDefault();
